@@ -31,22 +31,21 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Discord Flight Bot",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "My discord flight bot was designed to facilitate finding the arrivals and departures of a certain airport.",
+    url: "https://github.com/DanteSc03/DiscordFlightBot",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Time Spent Analysis",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "For our Statistics project, we were tasked with creating a comprehensive study involving a minimum of 10 variables, focusing on describing the relationships within those variables.",
+    url: "https://github.com/DanteSc03/Time-Spent",
   },
   {
-    title: "My Resume Site",
+    title: "Linear Regression in Stata",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "We were given the task to analyze a group of unkown datasets for our econometrics final project.",
   },
   {
     title: "GitHub Codespaces and github.dev",
