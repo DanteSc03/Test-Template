@@ -7,7 +7,7 @@
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://{github-user}.github.io/{repo-name}'",
+    "build-gh": "parcel build --public-url 'https://dantesc03.github.io/Test-Template/'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
